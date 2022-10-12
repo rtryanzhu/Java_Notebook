@@ -1,0 +1,5 @@
+Enter root directory: cd \
+Return to the upper level: cd..
+Switch to drive D: D:
+Display content within current directory: dir
+Open file: cd [file_name]
